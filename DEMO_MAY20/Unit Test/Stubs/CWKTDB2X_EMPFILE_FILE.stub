@@ -1,0 +1,70 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<stub:stub xmlns:listructure="http://www.compuware.com/model/xml/listructure" xmlns:properties="http://www.compuware.com/model/xml/properties" xmlns:stub="http://www.compuware.com/model/xml/stub" alias="" disposition="SHR" encoding="1047" fileStatus="00" id="Unit%20Test/Stubs/CWKTDB2X_EMPFILE_FILE.stub" stubtype="QSAM" target="EMPFILE" token="80000">
+  <stub:description>Created: 08-May-2020 16:42:46</stub:description>
+  <stub:stubdata id="0" name="EMPFILE">
+    <stub:inputinterface>../Interfaces/CWKTDB2X_EMPFILE_EMPLOYEE_WORK_AREA.interface#Unit%20Test/Interfaces/CWKTDB2X_EMPFILE_EMPLOYEE_WORK_AREA.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/CWKTDB2X_EMPFILE_EMPLOYEE-WORK-AREA.listructure#Unit%20Test/Structures/CWKTDB2X_EMPFILE_EMPLOYEE-WORK-AREA.listructure">
+      <stub:data baseType="listructure:structType ../Structures/CWKTDB2X_EMPFILE_EMPLOYEE-WORK-AREA.listructure#EMPLOYEE_WORK_AREA" id="arg0.EMPLOYEE_WORK_AREA">
+        <properties:properties>
+          <properties:property name="value" type="string">F0F3F4F3F1C8F2C7C1C9D340D3C1E6D9C5D5C3C54040F1F2F340D5D6D9E3C840C1E5C54040D7D3C1D5D6404040E3E7F5F7F0F1F040404040F4F0025C5B4040404040404040F8F4F0F6F2F54040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:checkconditions/>
+  </stub:stubdata>
+  <stub:stubdata id="1" name="EMPFILE">
+    <stub:inputinterface>../Interfaces/CWKTDB2X_EMPFILE_EMPLOYEE_WORK_AREA.interface#Unit%20Test/Interfaces/CWKTDB2X_EMPFILE_EMPLOYEE_WORK_AREA.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/CWKTDB2X_EMPFILE_EMPLOYEE-WORK-AREA.listructure#Unit%20Test/Structures/CWKTDB2X_EMPFILE_EMPLOYEE-WORK-AREA.listructure">
+      <stub:data baseType="listructure:structType ../Structures/CWKTDB2X_EMPFILE_EMPLOYEE-WORK-AREA.listructure#EMPLOYEE_WORK_AREA" id="arg0.EMPLOYEE_WORK_AREA">
+        <properties:properties>
+          <properties:property name="value" type="string">F0F1F4F3F1E2F5E3C5C440D5C5E2E2D4C1D540404040D6D5C540C3D6D7D3C5E840D7D34040C2D6E2E3D6D54040D4C1F8F7F1F2F0404040400100000FF0F0F0F0F0F0F04040F7F9F0F1F3F04040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:checkconditions/>
+  </stub:stubdata>
+  <stub:stubdata id="2" name="EMPFILE">
+    <stub:inputinterface>../Interfaces/CWKTDB2X_EMPFILE_EMPLOYEE_WORK_AREA.interface#Unit%20Test/Interfaces/CWKTDB2X_EMPFILE_EMPLOYEE_WORK_AREA.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/CWKTDB2X_EMPFILE_EMPLOYEE-WORK-AREA.listructure#Unit%20Test/Structures/CWKTDB2X_EMPFILE_EMPLOYEE-WORK-AREA.listructure">
+      <stub:data baseType="listructure:structType ../Structures/CWKTDB2X_EMPFILE_EMPLOYEE-WORK-AREA.listructure#EMPLOYEE_WORK_AREA" id="arg0.EMPLOYEE_WORK_AREA">
+        <properties:properties>
+          <properties:property name="value" type="string">F0F2F5F2F3C8F1D1D6C8D540E2D4C9E3C84040404040F5F4F5F640C5D3D440E2E3D9C5C5E3E6C1E8D5C5404040C9D3F7F7F9F0F240404040F3F802850F40F1404040404040F8F1F1F0F1F54040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:checkconditions/>
+  </stub:stubdata>
+  <stub:stubdata id="3" name="EMPFILE">
+    <stub:inputinterface>../Interfaces/CWKTDB2X_EMPFILE_EMPLOYEE_WORK_AREA.interface#Unit%20Test/Interfaces/CWKTDB2X_EMPFILE_EMPLOYEE_WORK_AREA.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/CWKTDB2X_EMPFILE_EMPLOYEE-WORK-AREA.listructure#Unit%20Test/Structures/CWKTDB2X_EMPFILE_EMPLOYEE-WORK-AREA.listructure">
+      <stub:data baseType="listructure:structType ../Structures/CWKTDB2X_EMPFILE_EMPLOYEE-WORK-AREA.listructure#EMPLOYEE_WORK_AREA" id="arg0.EMPLOYEE_WORK_AREA">
+        <properties:properties>
+          <properties:property name="value" type="string">F0F2F3F3F4E2F1D9D6E840C7C1D9C4D5C5D940404040F3F2F340D6C1D240E2E3D9C5C5E340C5C4C9D5C1404040D4D5F2F3F0F4F0404040400075000FF5F5F0F0F0F0F04040F9F2F1F2F3F14040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:checkconditions/>
+  </stub:stubdata>
+  <stub:stubdata id="4" name="EMPFILE">
+    <stub:inputinterface>../Interfaces/CWKTDB2X_EMPFILE_EMPLOYEE_WORK_AREA.interface#Unit%20Test/Interfaces/CWKTDB2X_EMPFILE_EMPLOYEE_WORK_AREA.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/CWKTDB2X_EMPFILE_EMPLOYEE-WORK-AREA.listructure#Unit%20Test/Structures/CWKTDB2X_EMPFILE_EMPLOYEE-WORK-AREA.listructure">
+      <stub:data baseType="listructure:structType ../Structures/CWKTDB2X_EMPFILE_EMPLOYEE-WORK-AREA.listructure#EMPLOYEE_WORK_AREA" id="arg0.EMPLOYEE_WORK_AREA">
+        <properties:properties>
+          <properties:property name="value" type="string">F0F6F7F4F5E2F3E5C1D3C5D9C9C540D6D3E2C5D54040F7F2F040D9C1E3E9C5D940D9D6C1C4E6C1E8D5C5404040D5D1F8F7F0F1F0404040400090000FF7F0F0F0F0F0F04040F9F4F0F5F0F14040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:checkconditions/>
+  </stub:stubdata>
+  <stub:stubdata id="5" name="EMPFILE">
+    <stub:inputinterface>../Interfaces/CWKTDB2X_EMPFILE_EMPLOYEE_WORK_AREA.interface#Unit%20Test/Interfaces/CWKTDB2X_EMPFILE_EMPLOYEE_WORK_AREA.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/CWKTDB2X_EMPFILE_EMPLOYEE-WORK-AREA.listructure#Unit%20Test/Structures/CWKTDB2X_EMPFILE_EMPLOYEE-WORK-AREA.listructure">
+      <stub:data baseType="listructure:structType ../Structures/CWKTDB2X_EMPFILE_EMPLOYEE-WORK-AREA.listructure#EMPLOYEE_WORK_AREA" id="arg0.EMPLOYEE_WORK_AREA">
+        <properties:properties>
+          <properties:property name="value" type="string">F0F0F7F6F5E2F1C4C1D540D7C5C1D9E2D6D540404040F9F0F940C8C9C7C8D3C1D5C4404040C3D6D3E4D4C2E4E2D6C8F3F4F1F1F1404040400085000FF2F5F0F0F0F0F04040F8F9F0F7F2F04040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:checkconditions/>
+  </stub:stubdata>
+</stub:stub>
